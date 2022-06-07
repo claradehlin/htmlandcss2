@@ -1,0 +1,60 @@
+#first {
+    background-color: #d8d8d8;
+    height: 11vh;
+    display: flex;
+    align-items: center;
+}
+
+#shape {
+    background-color: #5b8fdc;
+    height: 6vh;
+    width: 6vh;
+    margin: 2vh;
+}
+
+#second {
+    margin: 7vh;
+}
+
+#third {
+    background-color: #5b8fdc;
+    height: 32vh;
+    display: flex;
+    align-items: center;
+}
+
+#fourth {
+    background-color: #7be0c3;
+    height: 32vh;
+    display: flex;
+    align-items: center;
+}
+
+#fifth {
+    background-color: #c2e791;
+    height: 32vh;
+    display: flex;
+    align-items: center;
+}
+
+#sixth {
+    background-color: #f5e752;
+    height: 32vh;
+    display: flex;
+    align-items: center;
+}
+
+#seventh {
+    background-color:#000000;
+    width: 3vw;
+    height: 3vw;
+    border-radius: 50%;
+    color:beige;
+    text-align: center;
+    font-weight: bold;
+    font-size: 15px;
+
+    position:fixed;
+    right: 20px;
+    bottom: 20px;
+}
